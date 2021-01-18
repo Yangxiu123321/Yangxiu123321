@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-你所忍受的痛苦，你对自己无能的愤怒
+你所忍受的痛苦，是对自己无能的愤怒
 
 <!--
 **Yangxiu123321/Yangxiu123321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
