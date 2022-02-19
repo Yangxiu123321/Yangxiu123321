@@ -2,6 +2,8 @@
 
 做自己喜欢做的事
 :angel: 
+
+Blog: www.logpi.top
 <!--
 **Yangxiu123321/Yangxiu123321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
